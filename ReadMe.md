@@ -1,6 +1,6 @@
 ## Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-## NAME : Nidishkumar S
-## REGISTER NO: 212224040218
+## NAME : VISHAL S
+## REGISTER NO: 212224040365
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
